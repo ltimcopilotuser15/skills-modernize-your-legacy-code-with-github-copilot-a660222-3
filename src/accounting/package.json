@@ -1,0 +1,17 @@
+{
+  "name": "accounting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha accounting.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "chai": "^6.2.1",
+    "mocha": "^11.7.5"
+  }
+}
